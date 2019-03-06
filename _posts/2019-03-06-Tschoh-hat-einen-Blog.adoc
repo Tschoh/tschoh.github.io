@@ -1,4 +1,5 @@
 = Tschoh hat einen Blog
+= = Der erste Eintrag
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 // :published_at: 2019-01-31
