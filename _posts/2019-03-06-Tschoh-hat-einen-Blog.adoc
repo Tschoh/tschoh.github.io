@@ -1,5 +1,5 @@
 = Tschoh hat einen Blog
-:hp-tags: Notizen,
+:hp-tags: Notizen
 Das ist schon mal ein Anfang.
 
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
